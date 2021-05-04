@@ -1,0 +1,14 @@
+_id: env_0a218dd4769341a9ba3f258b15cdb7cd
+type: Environment
+parentId: env_1508b06e0997aaac3bcb4164b5b0b91578bd2a90
+modified: 1620143417586
+created: 1620143391549
+name: Test ENv
+data:
+  base_url: https://jsonplaceholder.typicode.com
+dataPropertyOrder:
+  "&":
+    - base_url
+color: null
+isPrivate: false
+metaSortKey: 1620143391549

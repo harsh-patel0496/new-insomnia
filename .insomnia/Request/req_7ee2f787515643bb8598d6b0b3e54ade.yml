@@ -1,0 +1,21 @@
+_id: req_7ee2f787515643bb8598d6b0b3e54ade
+type: Request
+parentId: wrk_16a7997f61c14fa49e8a2668a87c8f25
+modified: 1620143435327
+created: 1620143426508
+url: "{{ _.base_url }}/users"
+name: Users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1620143426509
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
